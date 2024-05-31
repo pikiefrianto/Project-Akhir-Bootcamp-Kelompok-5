@@ -5,7 +5,7 @@ projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 
 1. Piki Efrianto - 2155201049
 2. Puja Puryogi - 2055201040
-3. Luhur Budi AAryanto - 2155201005
+3. Luhur Budi Aryanto - 2155201005
 4. Nova Nopitriana - 2155201048
 6. Mulya Irvan Luthfy - 2155201107
 
