@@ -9,7 +9,7 @@ projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 4. Nova Nopitriana - 2155201048
 6. Mulya Irvan Luthfy - 2155201107
 
-## Link vidio 
+## Link video 
 1. Piki Efrianto
 https://drive.google.com/drive/folders/1QSfkfCRrxkTBpPpszva-Q0R0C_VDM9xA?usp=sharing 
 
