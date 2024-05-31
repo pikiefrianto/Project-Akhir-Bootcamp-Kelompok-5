@@ -17,3 +17,4 @@ spec:
         image: gcr.io/project_akhir/shop:latest
         ports:
         - containerPort: 80
+
