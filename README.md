@@ -21,6 +21,9 @@ projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 3. Novanopitriana
    https://drive.google.com/drive/folders/1LUr1ARnd5ohWyAfYux3v5N-plyYbuqgB?usp=sharing
 
+4. Mulya Irvan Luthfy
+https://drive.google.com/drive/folders/1Uz5hyOrYuQXE1-_aODI25dbFL_BjSuCU?usp=sharing
+
 ## Link ERD https://drive.google.com/file/d/14DM3PCaj9Ou2ZayBkX_oa8vx23rQNp_Z/view?usp=drivesdk
 
 #### Deskripsi singkat projek
