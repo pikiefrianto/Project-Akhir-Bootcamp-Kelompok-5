@@ -1,4 +1,5 @@
 # projek-akhir
+
 projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 
 ## Nama Kelompok :
@@ -7,43 +8,38 @@ projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 2. Puja Puryogi - 2055201040
 3. Luhur Budi Aryanto - 2155201005
 4. Nova Nopitriana - 2155201048
-6. Mulya Irvan Luthfy - 2155201107
+5. Mulya Irvan Luthfy - 2155201107
 
-## Link video 
+## Link video
+
 1. Piki Efrianto
-https://drive.google.com/drive/folders/1QSfkfCRrxkTBpPpszva-Q0R0C_VDM9xA?usp=sharing
+   https://drive.google.com/drive/folders/1QSfkfCRrxkTBpPpszva-Q0R0C_VDM9xA?usp=sharing
 
 2. Luhur Budi Aryanto
-https://drive.google.com/drive/folders/1o4M9q0ENAH2q8chJXHvITiuelfkikb3K?usp=drive_link
+   https://drive.google.com/drive/folders/1o4M9q0ENAH2q8chJXHvITiuelfkikb3K?usp=drive_link
+
+3. Novanopitriana
+   https://drive.google.com/drive/folders/1LUr1ARnd5ohWyAfYux3v5N-plyYbuqgB?usp=sharing
 
 ## Link ERD https://drive.google.com/file/d/14DM3PCaj9Ou2ZayBkX_oa8vx23rQNp_Z/view?usp=drivesdk
 
 #### Deskripsi singkat projek
+
 Projek ini adalah projek penjualan barang yang dimana orang dapat login untuk melihat produk yang tertera dan dapat membeli serta memberikan commant atau review.
 
 #### Fitur aplikasi
-- Login
-- Register
-- Update barang dan konsumen
-- Create barang dan konsumen
-- Delate
 
-
-
-
-
-
-
-
-
-
-
+-   Login
+-   Register
+-   Update barang dan konsumen
+-   Create barang dan konsumen
+-   Delate
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+_We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket._
 
 ---
 
@@ -54,7 +50,7 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 1. Click **Source** on the left side.
 2. Click the README.md link from the list of files.
 3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
+4. Delete the following text: _Delete this line to make a change to the README from Bitbucket._
 5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
 6. Go back to the **Source** page.
 
