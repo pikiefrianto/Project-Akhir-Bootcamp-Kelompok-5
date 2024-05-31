@@ -14,7 +14,7 @@ projek akhir ini adalah projek yang bertemakan onlineshop atau e-commerce
 https://drive.google.com/drive/folders/1QSfkfCRrxkTBpPpszva-Q0R0C_VDM9xA?usp=sharing
 
 2. Luhur Budi Aryanto
-https://github.com/pikiefrianto/Project-Akhir-Bootcamp-Kelompok-5.git
+https://drive.google.com/drive/folders/1o4M9q0ENAH2q8chJXHvITiuelfkikb3K?usp=drive_link
 
 ## Link ERD https://drive.google.com/file/d/14DM3PCaj9Ou2ZayBkX_oa8vx23rQNp_Z/view?usp=drivesdk
 
